@@ -1,7 +1,6 @@
 # Generating a Research Timeline
 
 ## Description
----
 
 This program is a research management tool that generates a research timeline for the user as either a CSV or PDF timeline graphic.
 
@@ -17,7 +16,6 @@ There are multiple places where this program could be integrated. One possible u
 
 
 ## Program Setup
----
 
 In order to use this tool, the following programs and libraries must be installed on the user's computer:
 
@@ -29,7 +27,6 @@ In order to use this tool, the following programs and libraries must be installe
 
 
 ## User Instructions
----
 
 1. Download the research_timeline.py Python program and save to computer.
 
@@ -43,7 +40,7 @@ In order to use this tool, the following programs and libraries must be installe
 6. Once the user selects their output format(s), the generated file(s) will be saved on their computer in the same directory and folder as the Python program and .txt files.
 
 ## Images
----
+
 Article citation text file format:
 
 <img src="citationtxt.jpg" width="" height="300" />  
@@ -65,7 +62,7 @@ Sample PDF timeline output with the same nine inputs:
 <br/><br/>
 
 ## Credits and Resources
----
+
 Thank you to my Python instructor, Dr. Fatemeh Kia [(University of British Columbia)](https://ischool.ubc.ca/profile/fatemeh-salehian-kia/), and the materials provided by 
 Dr. Charles R. Severance on [PY4E](https://www.py4e.com/).
 ___
